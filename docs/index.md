@@ -12,3 +12,4 @@
 4. GitHub Pages публикует артефакт сборки.
 
 Адрес будущего сайта: `https://Leoni101.github.io/devops-docs/`.
+[Ссылка в никуда](missing-page.md)
